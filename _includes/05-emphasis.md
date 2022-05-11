@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Em's skills
+Em is really good at:
+* Petting *dogs*
+* Eating **cheesecake**
+* Making ***food***
